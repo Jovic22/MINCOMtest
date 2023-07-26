@@ -50,7 +50,7 @@
   margin-right: 21%;
   padding-bottom: 30px;
   font-family: 'Roboto', sans-serif;
-	font-weight: 300;
+	font-weight: 400;
   color: rgb(0,0,0,0.55);
 }
 
@@ -99,7 +99,7 @@
 .samotekst ul li{
   font-family: 'Roboto', sans-serif;
   color: rgb(0,0,0,0.55);
-  font-weight: 300;
+  font-weight: 400;
   font-size: 15px;
 }
 
@@ -108,13 +108,13 @@
 
 .slikatekst p{
   font-family: 'Roboto', sans-serif;
-	font-weight: 300;
+	font-weight: 400;
   color: rgb(0,0,0,0.55);
 }
 
 .samotekst p{
   font-family: 'Roboto', sans-serif;
-	font-weight: 300;
+	font-weight: 400;
   color: rgb(0,0,0,0.55);
 }
 
